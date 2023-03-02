@@ -20,8 +20,9 @@
 <ol>
 <li><a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
 <li><a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-<li><a href="docs/3-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/4-Metodologia.md"> Metodologia</a></li>
+<li><a href="docs/3-Detalhamento preliminar.md"> Detalhamento preliminar </a></li>
+<li><a href="docs/4-Sprint1.md"> Artefatos da Sprint 1</a></li>
+<li><a href="docs/4-Sprint2.md"> Artefatos da Sprint 1</a></li>
 <li><a href="docs/5-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
 <li><a href="docs/6-Template padrão do Site.md"> Template padrão do Site</a></li>
 <li><a href="docs/7-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
