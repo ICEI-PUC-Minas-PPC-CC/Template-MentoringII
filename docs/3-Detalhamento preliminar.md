@@ -1,7 +1,7 @@
 # Detalhamento preliminar
 
-Nesta etapa, se seu grupo for desenvolver uma solução de sofware, deverá ser apresentado o projeto de interface e o _user flow.
-Se seu grupo for desenvolver um curso, deverá ser apresentado o cronograma preliminar de execução considerando os conteúdos que serão abordados aula por aula. Nesta etapa, ainda não é necessário apresentar o conteúdo detalhado, mas apenas um planejamento prévio.
+Nesta etapa, se seu grupo for desenvolver uma **solução de sofware**, deverá ser apresentado o **projeto de interface** e o **_user flow_**.
+Se seu grupo for desenvolver um **curso**, deverá ser apresentado o **cronograma preliminar** de execução considerando os conteúdos que serão abordados aula por aula. Nesta etapa, ainda não é necessário apresentar o conteúdo detalhado, mas apenas um planejamento prévio.
 
 # Projeto de Interface
 
@@ -21,4 +21,11 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+
+# Cronograma preliminar
+
+|Aula   | Conteúdo a ser abordado  | Tempo necessário |
+|------|-----------------------------------------|----|
+|1| Introdução à lógica de programação | 30 minutos | 
+|2| Introdução ao funcionamento de um compilador   | 20 minutos |
 
