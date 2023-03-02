@@ -22,9 +22,9 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
-# Cronograma preliminar
+## Cronograma preliminar
 
-|Aula   | Conteúdo a ser abordado  | Tempo necessário |
+|Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
 |1| Introdução à lógica de programação | 30 minutos | 
 |2| Introdução ao funcionamento de um compilador   | 20 minutos |
