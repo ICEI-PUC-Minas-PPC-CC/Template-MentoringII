@@ -29,3 +29,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 |1| Introdução à lógica de programação | 30 minutos | 
 |2| Introdução ao funcionamento de um compilador   | 20 minutos |
 
+
+
+
+
