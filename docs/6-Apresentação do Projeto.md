@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
 
-Nesta seção, deverá ser apresentados os itens a seguir:
+Nesta seção, deverão ser apresentados os itens a seguir:
 
 ## Título do Projeto
 
@@ -10,7 +10,7 @@ Nome e marca do projeto
 
 ## Identidade Visual (Marca, Design)
 
-O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
+O grupo deve ter o cuidado em utilizar figuras, imagens e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
 
 > **Links Úteis**:
 > - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
@@ -19,7 +19,7 @@ O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do conte
 
 ## Conjunto de Slides (Estrutura)
 
-O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos.
+O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado em sala para a apresentação final. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos/problemas minimizados e/ou sanados.
  
 > **Links Úteis**:
 > - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
