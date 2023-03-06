@@ -10,7 +10,8 @@ Exemplos de referências:
 [2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
 
 > **Links Úteis**:
-> - [Norma ABNT PUC Minas] (http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
+> - [Norma ABNT PUC Minas] ()
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
+> - [Normas ABNT PUC Minas](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
 
