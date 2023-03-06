@@ -25,13 +25,7 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
 
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar todas as referências que forem utilizadas seguindo os padrões da ABNT.
-
-Exemplos de referências bibliográficas:
-
-[1] - ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001.
-[2] - COPPIN, Ben. Inteligência artificial. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8.
-[3] - CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
+O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento "https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/7-Refer%C3%AAncias.md"
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
