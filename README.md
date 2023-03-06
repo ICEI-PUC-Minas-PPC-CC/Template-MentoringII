@@ -22,7 +22,7 @@
 <li><a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="docs/3-Detalhamento preliminar.md"> Detalhamento preliminar </a></li>
 <li><a href="docs/4-Sprint 1.md"> Artefatos da Sprint 1</a></li>
-<li><a href="docs/5-Sprint 1.md"> Artefatos da Sprint 1</a></li>
+<li><a href="docs/5-Sprint 2.md"> Artefatos da Sprint 2</a></li>
 <li><a href="docs/6-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/7-Referências.md"> Referências</a></li>
 </ol>
