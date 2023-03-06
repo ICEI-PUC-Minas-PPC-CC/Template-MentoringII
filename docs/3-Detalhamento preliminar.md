@@ -1,7 +1,6 @@
 # Detalhamento preliminar
 
-Nesta etapa, se seu grupo for desenvolver uma **solução de sofware**, deverá ser apresentado o **projeto de interface** e o **_user flow_**.
-Se seu grupo for desenvolver um **curso**, deverá ser apresentado o **cronograma preliminar** de execução considerando os conteúdos que serão abordados aula por aula. Nesta etapa, ainda não é necessário apresentar o conteúdo detalhado, mas apenas um planejamento prévio.
+## Obs.1: Caso seu grupo não vá desenvolver uma solução de software, as seções "projeto de interface" e "_user flow_" DEVERÃO ser REMOVIDAS.
 
 ## Projeto de Interface
 
@@ -23,6 +22,9 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
 ## Cronograma preliminar
+
+Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
+Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
 
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
