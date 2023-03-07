@@ -90,4 +90,4 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 Nesta seção, caso seu grupo vá realizar algum tipo de levantamento de dados/entrevistas, descreva o(s) artefato(s) produzidos para tal. Também deverá ser descrita qual estratégia será utilizada para este levantamento. Por exemplo: como os questionários serão aplicados? (_in loco_, via disponibilização pela _web_ etc), qual material/estratégia de divulgação será utilizado? 
 
-Neste momento, os resultados obtidos deverão ser descritos apenas na seção "Detalhamento preliminar".
+Não se preocupe em descrever os resultados agora, eles deverão ser descritos apenas na seção "Detalhamento preliminar" (Etapa 03).
